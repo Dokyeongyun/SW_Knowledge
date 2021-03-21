@@ -19,17 +19,17 @@
 
 ## [Spring Framework]
 
-- [스프링 프레임워크란?][Spring-1]
-- [의존성 주입이란?][Spring-2]
-- [스프링 Bean 설정 3가지 방법 - Java기반, Xml기반, Annotation기반][Spring-3]
-- [의존성 주입의 다양한 방법 - Field, Setter, Constructor][Spring-4]
-- [AOP란?][Spring-5]
-- [AOP 사용예제][Spring-6]
-- [포인트컷 표현식][Spring-7]
-- [스프링에서 데이터바인딩][Spring-8]
-- [형 변환(Type Conversion) - PropertyEditor, Converter, Formatter][Spring-9]
-- [스프링 JDBC 연동 (DBCP이용 + MySQL)][Spring-10]
-
+1. [스프링 프레임워크란?][Spring-1]
+2. [의존성 주입이란?][Spring-2]
+3. [스프링 Bean 설정 3가지 방법 - Java기반, Xml기반, Annotation기반][Spring-3]
+4. [의존성 주입의 다양한 방법 - Field, Setter, Constructor][Spring-4]
+5. [AOP란?][Spring-5]
+6. [AOP 사용예제][Spring-6]
+7. [포인트컷 표현식][Spring-7]
+8. [스프링에서 데이터바인딩][Spring-8]
+9. [형 변환(Type Conversion) - PropertyEditor, Converter, Formatter][Spring-9]
+10. [스프링 JDBC 연동 (DBCP이용 + MySQL)][Spring-10]
+11. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-11]
 
 
 
@@ -48,4 +48,5 @@
 [Spring-8]: https://blog.naver.com/aservmz/222132312284 "스프링에서 데이터 바인딩"
 [Spring-9]: https://blog.naver.com/aservmz/222132754665 "형 변환(Type Conversion) - PropertyEditor, Converter, Formatter"
 [Spring-10]: https://blog.naver.com/aservmz/222137705967 "스프링 JDBC 연동 (DBCP이용 + MySQL)"
+[Spring-11]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
 
