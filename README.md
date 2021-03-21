@@ -30,6 +30,7 @@
 9. [형 변환(Type Conversion) - PropertyEditor, Converter, Formatter][Spring-9]
 10. [스프링 JDBC 연동 (DBCP이용 + MySQL)][Spring-10]
 11. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-11]
+12. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-12]
 
 
 
@@ -49,4 +50,5 @@
 [Spring-9]: https://blog.naver.com/aservmz/222132754665 "형 변환(Type Conversion) - PropertyEditor, Converter, Formatter"
 [Spring-10]: https://blog.naver.com/aservmz/222137705967 "스프링 JDBC 연동 (DBCP이용 + MySQL)"
 [Spring-11]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
+[Spring-12]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
 
