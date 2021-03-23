@@ -32,6 +32,7 @@
 11. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-11]
 12. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-12]
 13. [HttpMessageConverter 커스터마이징 방법][Spring-13]
+14. [HiddenHttpMethodFilter][Spring-14]
 
 
 
@@ -53,4 +54,5 @@
 [Spring-11]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
 [Spring-12]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
 [Spring-13]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
+[Spring-14]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
 
