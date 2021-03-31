@@ -11,6 +11,12 @@
 
 <hr>
 
+## [Database]
+
+- [데이터베이스 키(Key)의 개념 및 종류][Database-1]
+
+<hr>
+
 ## [Data Structure]
 
 - [트라이 Trie][DataStructure-1]
@@ -38,6 +44,8 @@
 
 [bloglink]: https://blog.naver.com/aservmz "Go My Blog"
 [Network-1]: https://blog.naver.com/aservmz/222273195172 "OSI Reference Model"
+
+[Database-1]: https://blog.naver.com/aservmz/221943292606 "데이터베이스 키(Key)의 개념 및 종류"
 
 [DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
 
