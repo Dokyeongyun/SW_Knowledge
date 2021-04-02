@@ -35,10 +35,15 @@
 8. [스프링에서 데이터바인딩][Spring-8]
 9. [형 변환(Type Conversion) - PropertyEditor, Converter, Formatter][Spring-9]
 10. [스프링 JDBC 연동 (DBCP이용 + MySQL)][Spring-10]
-11. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-11]
-12. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-12]
-13. [HttpMessageConverter 커스터마이징 방법][Spring-13]
-14. [HiddenHttpMethodFilter][Spring-14]
+11. [JdbcTemplate를 이용한 다양한 SQL 질의 방법][Spring-11]
+12. [RowMapper를 활용한 조회결과 매핑][Spring-12]
+13. [트랜잭션 관리자 (개념, 종류, 설정방법)][Spring-13]
+14. [선언적 트랜잭션 (어노테이션 기반, XML기반 설정 방식)][Spring-14]
+15. [명시적 트랜잭션 (TransactionTemplate, PlatformTransactionManager 이용)][Spring-15]
+16. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-16]
+17. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-17]
+18. [HttpMessageConverter 커스터마이징 방법][Spring-18]
+19. [HiddenHttpMethodFilter][Spring-19]
 
 
 
@@ -59,8 +64,13 @@
 [Spring-8]: https://blog.naver.com/aservmz/222132312284 "스프링에서 데이터 바인딩"
 [Spring-9]: https://blog.naver.com/aservmz/222132754665 "형 변환(Type Conversion) - PropertyEditor, Converter, Formatter"
 [Spring-10]: https://blog.naver.com/aservmz/222137705967 "스프링 JDBC 연동 (DBCP이용 + MySQL)"
-[Spring-11]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
-[Spring-12]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
-[Spring-13]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
-[Spring-14]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
+[Spring-11]: https://blog.naver.com/aservmz/222139111928 "JdbcTemplate를 이용한 다양한 SQL 질의 방법"
+[Spring-12]: https://blog.naver.com/aservmz/222139789930 "RowMapper를 활용한 조회결과 매핑"
+[Spring-13]: https://blog.naver.com/aservmz/222142588232 "트랜잭션 관리자 (개념, 종류, 설정방법)"
+[Spring-14]: https://blog.naver.com/aservmz/222142663551 "선언적 트랜잭션 (어노테이션 기반, XML기반 설정 방식)"
+[Spring-15]: https://blog.naver.com/aservmz/222147176874 "명시적 트랜잭션 (TransactionTemplate, PlatformTransactionManager 이용)"
+[Spring-16]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
+[Spring-17]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
+[Spring-18]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
+[Spring-19]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
 
