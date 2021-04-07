@@ -8,6 +8,7 @@
 ## [Network]
 
 - [OSI Reference Model][Network-1]
+- [HTTP][Network-2]
 
 <hr>
 
@@ -49,6 +50,7 @@
 
 [bloglink]: https://blog.naver.com/aservmz "Go My Blog"
 [Network-1]: https://blog.naver.com/aservmz/222273195172 "OSI Reference Model"
+[Network-2]: https://blog.naver.com/aservmz/222301982303 "HTTP란"
 
 [Database-1]: https://blog.naver.com/aservmz/221943292606 "데이터베이스 키(Key)의 개념 및 종류"
 
