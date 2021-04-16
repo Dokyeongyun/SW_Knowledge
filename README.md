@@ -24,6 +24,12 @@
 
 <hr>
 
+## [Web]
+
+- [CORS, SOP란? 크로스 도메인 이슈][Web-1]
+
+<hr>
+
 ## [Spring Framework]
 
 1. [스프링 프레임워크란?][Spring-1]
@@ -55,6 +61,8 @@
 [Database-1]: https://blog.naver.com/aservmz/221943292606 "데이터베이스 키(Key)의 개념 및 종류"
 
 [DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
+
+[Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 
 [Spring-1]: https://blog.naver.com/aservmz/222123598813 "스프링프레임워크란?"
 [Spring-2]: https://blog.naver.com/aservmz/222124195653 "의존성 주입이란?"
