@@ -51,6 +51,7 @@
 17. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-17]
 18. [HttpMessageConverter 커스터마이징 방법][Spring-18]
 19. [HiddenHttpMethodFilter][Spring-19]
+20. [스프링 CORS - 설정방법을 중심으로][Spring-20]
 
 
 
@@ -83,4 +84,5 @@
 [Spring-17]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
 [Spring-18]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
 [Spring-19]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
+[Spring-20]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
 
