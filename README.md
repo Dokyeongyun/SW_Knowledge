@@ -52,6 +52,7 @@
 18. [HttpMessageConverter 커스터마이징 방법][Spring-18]
 19. [HiddenHttpMethodFilter][Spring-19]
 20. [스프링 CORS - 설정방법을 중심으로][Spring-20]
+21. [스프링 CORS - 처리과정을 중심으로][Spring-21]
 
 
 
@@ -85,4 +86,5 @@
 [Spring-18]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
 [Spring-19]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
 [Spring-20]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
+[Spring-21]: https://blog.naver.com/aservmz/222313864092 "스프링 CORS - 처리과정을 중심으로"
 
