@@ -53,6 +53,7 @@
 19. [HiddenHttpMethodFilter][Spring-19]
 20. [스프링 CORS - 설정방법을 중심으로][Spring-20]
 21. [스프링 CORS - 처리과정을 중심으로][Spring-21]
+22. [URI 조립을 위한 UriComponentsBuilder][Spring-22]
 
 
 
@@ -87,4 +88,5 @@
 [Spring-19]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
 [Spring-20]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
 [Spring-21]: https://blog.naver.com/aservmz/222313864092 "스프링 CORS - 처리과정을 중심으로"
+[Spring-22]: https://blog.naver.com/aservmz/222322019981 "URI 조립을 위한 UriComponentsBuilder"
 
