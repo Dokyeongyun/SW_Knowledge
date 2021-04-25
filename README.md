@@ -54,6 +54,7 @@
 20. [스프링 CORS - 설정방법을 중심으로][Spring-20]
 21. [스프링 CORS - 처리과정을 중심으로][Spring-21]
 22. [URI 조립을 위한 UriComponentsBuilder][Spring-22]
+23. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-23]
 
 
 
@@ -89,4 +90,5 @@
 [Spring-20]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
 [Spring-21]: https://blog.naver.com/aservmz/222313864092 "스프링 CORS - 처리과정을 중심으로"
 [Spring-22]: https://blog.naver.com/aservmz/222322019981 "URI 조립을 위한 UriComponentsBuilder"
+[Spring-23]: https://blog.naver.com/aservmz/222322773008 "REST API 예외처리 방법 (ResponseEntityExceptionHandler)"
 
