@@ -56,6 +56,7 @@
 22. [URI 조립을 위한 UriComponentsBuilder][Spring-22]
 23. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-23]
 24. [RestTemplate - 개념부터 활용까지][Spring-24]
+25. [세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)][Spring-25]
 
 
 
@@ -93,4 +94,5 @@
 [Spring-22]: https://blog.naver.com/aservmz/222322019981 "URI 조립을 위한 UriComponentsBuilder"
 [Spring-23]: https://blog.naver.com/aservmz/222322773008 "REST API 예외처리 방법 (ResponseEntityExceptionHandler)"
 [Spring-24]: https://blog.naver.com/aservmz/222325616285 "RestTemplate - 개념부터 활용까지"
+[Spring-25]: https://blog.naver.com/aservmz/222332995975 "세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)"
 
