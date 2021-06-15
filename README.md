@@ -102,5 +102,5 @@
 [Spring-24]: https://blog.naver.com/aservmz/222325616285 "RestTemplate - 개념부터 활용까지"
 [Spring-25]: https://blog.naver.com/aservmz/222332995975 "세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)"
 [Spring-26]: https://blog.naver.com/aservmz/222338298677 "단일/다중 파일 업로드 MultipartResolver"
-[Spring-27]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제"
+[Spring-27]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제  "
 
