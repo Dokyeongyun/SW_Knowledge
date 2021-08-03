@@ -55,18 +55,19 @@
 16. [트랜잭션 격리 수준과 전파방식][Spring-16]
 17. [스프링 MVC 패턴 (feat. Front Controller 패턴)][Spring-17]
 18. [스프링 MVC, 프론트 컨트롤러 패턴][Spring-18]
-19. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-19]
-20. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-20]
-21. [HttpMessageConverter 커스터마이징 방법][Spring-21]
-22. [HiddenHttpMethodFilter][Spring-22]
-23. [스프링 CORS - 설정방법을 중심으로][Spring-23]
-24. [스프링 CORS - 처리과정을 중심으로][Spring-24]
-25. [URI 조립을 위한 UriComponentsBuilder][Spring-25]
-26. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-26]
-27. [RestTemplate - 개념부터 활용까지][Spring-27]
-28. [세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)][Spring-28]
-29. [단일/다중 파일 업로드 MultipartResolver][Spring-29]
-30. [단일/다중 파일 업로드 사용예제][Spring-30]
+19. [Spring MVC DispatcherServlet의 계층구조 (ApplicationContext 계층구조)][Spring-19]
+20. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-20]
+21. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-21]
+22. [HttpMessageConverter 커스터마이징 방법][Spring-22]
+23. [HiddenHttpMethodFilter][Spring-23]
+24. [스프링 CORS - 설정방법을 중심으로][Spring-24]
+25. [스프링 CORS - 처리과정을 중심으로][Spring-25]
+26. [URI 조립을 위한 UriComponentsBuilder][Spring-26]
+27. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-27]
+28. [RestTemplate - 개념부터 활용까지][Spring-28]
+29. [세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)][Spring-29]
+30. [단일/다중 파일 업로드 MultipartResolver][Spring-30]
+31. [단일/다중 파일 업로드 사용예제][Spring-31]
 
 
 
@@ -98,16 +99,17 @@
 [Spring-16]: https://blog.naver.com/aservmz/222148145904 "트랜잭션 격리 수준과 전파방식"
 [Spring-17]: https://blog.naver.com/aservmz/222149929797 "스프링 MVC 패턴 (feat. Front Controller 패턴)"
 [Spring-18]: https://blog.naver.com/aservmz/222156447100 "스프링 MVC, 프론트 컨트롤러 패턴"
-[Spring-19]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
-[Spring-20]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
-[Spring-21]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
-[Spring-22]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
-[Spring-23]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
-[Spring-24]: https://blog.naver.com/aservmz/222313864092 "스프링 CORS - 처리과정을 중심으로"
-[Spring-25]: https://blog.naver.com/aservmz/222322019981 "URI 조립을 위한 UriComponentsBuilder"
-[Spring-26]: https://blog.naver.com/aservmz/222322773008 "REST API 예외처리 방법 (ResponseEntityExceptionHandler)"
-[Spring-27]: https://blog.naver.com/aservmz/222325616285 "RestTemplate - 개념부터 활용까지"
-[Spring-28]: https://blog.naver.com/aservmz/222332995975 "세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope q )"
-[Spring-29]: https://blog.naver.com/aservmz/222338298677 "단일/다중 파일 업로드 MultipartResolver"
-[Spring-30]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제  "
+[Spring-19]: https://blog.naver.com/aservmz/222157110455 "Spring MVC DispatcherServlet의 계층구조 (ApplicationContext 계층구조)"
+[Spring-20]: https://blog.naver.com/aservmz/222282710254 "스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기"
+[Spring-21]: https://blog.naver.com/aservmz/222283277914 "HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정"
+[Spring-22]: https://blog.naver.com/aservmz/222284376294 "HttpMessageConverter 커스터마이징 방법"
+[Spring-23]: https://blog.naver.com/aservmz/222284858959 "HiddenHttpMethodFilter"
+[Spring-24]: https://blog.naver.com/aservmz/222313756775 "스프링 CORS - 설정방법을 중심으로"
+[Spring-25]: https://blog.naver.com/aservmz/222313864092 "스프링 CORS - 처리과정을 중심으로"
+[Spring-26]: https://blog.naver.com/aservmz/222322019981 "URI 조립을 위한 UriComponentsBuilder"
+[Spring-27]: https://blog.naver.com/aservmz/222322773008 "REST API 예외처리 방법 (ResponseEntityExceptionHandler)"
+[Spring-28]: https://blog.naver.com/aservmz/222325616285 "RestTemplate - 개념부터 활용까지"
+[Spring-29]: https://blog.naver.com/aservmz/222332995975 "세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope q )"
+[Spring-30]: https://blog.naver.com/aservmz/222338298677 "단일/다중 파일 업로드 MultipartResolver"
+[Spring-31]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제  "
 
