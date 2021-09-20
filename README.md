@@ -82,7 +82,7 @@
 
 [Database-1]: https://blog.naver.com/aservmz/221943292606 "데이터베이스 키(Key)의 개념 및 종류"
 
-[DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
+[DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie trie"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 
