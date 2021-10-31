@@ -6,6 +6,7 @@
 
 ## [Clean Architecture]
  - [[Clean Architecture] The Clean Architecture 번역 및 이해][Clean-1]
+ - [[Clean Architecture] 1장. 설계와 아키텍처란?][Clean-2]
 
 <hr>
 
@@ -80,6 +81,7 @@
 [bloglink]: https://blog.naver.com/aservmz "Go My Blog"
 
 [Clean-1]: https://blog.naver.com/aservmz/222553503541 "The Clean Architecture 번역 및 이해"
+[Clean-2]: https://blog.naver.com/aservmz/222554223402 "1장. 설계와 아키텍처란?"
 
 [Network-1]: https://blog.naver.com/aservmz/222273195172 "OSI Reference Model"
 [Network-2]: https://blog.naver.com/aservmz/222301982303 "HTTP란"
