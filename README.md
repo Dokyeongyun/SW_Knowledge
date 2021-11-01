@@ -83,7 +83,7 @@
 
 [Clean-1]: https://blog.naver.com/aservmz/222553503541 "The Clean Architecture 번역 및 이해"
 [Clean-2]: https://blog.naver.com/aservmz/222554223402 "1장. 설계와 아키텍처란?"
-[Clean-2]: https://blog.naver.com/aservmz/222554298254 "2장. 두 가지 가치에 대한 이야기"
+[Clean-3]: https://blog.naver.com/aservmz/222554298254 "2장. 두 가지 가치에 대한 이야기"
 
 [Network-1]: https://blog.naver.com/aservmz/222273195172 "OSI Reference Model"
 [Network-2]: https://blog.naver.com/aservmz/222301982303 "HTTP란"
