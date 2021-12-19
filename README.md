@@ -35,6 +35,7 @@
 ## [Web]
 
 - [CORS, SOP란? 크로스 도메인 이슈][Web-1]
+- [[WAS] Apache Tomcat이란?- 간략한 역사와 역할][Web-2]
 
 <hr>
 
@@ -95,6 +96,7 @@
 [DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie trie"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
+[Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
 
 [Spring-1]: https://blog.naver.com/aservmz/222123598813 "스프링프레임워크란?"
 [Spring-2]: https://blog.naver.com/aservmz/222124195653 "의존성 주입이란?"
