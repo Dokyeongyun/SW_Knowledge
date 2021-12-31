@@ -4,9 +4,17 @@
 
 
 
+
+
+
+
+
+
 ## [Clean Architecture]
  - [[Clean Architecture] The Clean Architecture 번역 및 이해][Clean-1]
  - [[Clean Architecture] 1장. 설계와 아키텍처란?][Clean-2]
+
+
  - [[Clean Architecture] 2장. 두 가지 가치에 대한 이야기][Clean-3]
 
 <hr>
@@ -73,7 +81,7 @@
 28. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-28]
 29. [HttpMessageConverter 커스터마이징 방법][Spring-29]
 30. [HiddenHttpMethodFilter][Spring-30]
-31. [스프링 CORS - 설정방법을 중심으로][Spring-31]
+31. [스프링 CORS - 설정방법을 중심으4로][Spring-31]
 32. [스프링 CORS - 처리과정을 중심으로][Spring-32]
 33. [URI 조립을 위한 UriComponentsBuilder][Spring-33]
 34. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-34]
