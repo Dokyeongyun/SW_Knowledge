@@ -3,13 +3,6 @@
 &#9995; My Naver Technical Blog - [Click Here][bloglink] &#9995;
 
 
-
-
-
-
-
-
-
 ## [Clean Architecture]
  - [[Clean Architecture] The Clean Architecture 번역 및 이해][Clean-1]
  - [[Clean Architecture] 1장. 설계와 아키텍처란?][Clean-2]
@@ -34,7 +27,8 @@
 
 ## [Data Structure]
 
-- [트라이 Trie][DataStructure-1]
+- [트라이 (Trie)][DataStructure-1]
+- [트라이 (Trie) - 자바로 구현하기][DataStructure-2]
 
 <hr>
 
@@ -107,7 +101,8 @@
 
 [Database-1]: https://blog.naver.com/aservmz/221943292606 "데이터베이스 키(Key)의 개념 및 종류"
 
-[DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie trie"
+[DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
+[DataStructure-2]: https://blog.naver.com/aservmz/222678097858 "트라이 (Trie) - 자바로 구현하기"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
