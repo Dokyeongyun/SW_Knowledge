@@ -29,6 +29,7 @@
 
 - [트라이 (Trie)][DataStructure-1]
 - [트라이 (Trie) - 자바로 구현하기][DataStructure-2]
+- [트라이 (Trie) - 자동완성 기능 구현하기][DataStructure-3]
 
 <hr>
 
@@ -103,6 +104,7 @@
 
 [DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
 [DataStructure-2]: https://blog.naver.com/aservmz/222678097858 "트라이 (Trie) - 자바로 구현하기"
+[DataStructure-2]: https://blog.naver.com/aservmz/222679300807 "트라이 (Trie) - 자동완성 기능 구현하기"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
