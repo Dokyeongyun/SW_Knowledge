@@ -72,7 +72,7 @@
 24. [@RequestMapping - 요청 매핑 조건을 지정하는 어노테이션][Spring-24]
 25. [View(1) - View와 ViewResolver의 개념 + Redirecting, Forwarding][Spring-25]
 26. [View(2) - 스프링 MVC에서 지원하는 View의 종류][Spring-26]
-27. View(3) - 스프링 MVC에서 지원하는 ViewResolver의 종류 + ViewResolver Chaining][Spring-27]
+27. [View(3) - 스프링 MVC에서 지원하는 ViewResolver의 종류 + ViewResolver Chaining][Spring-27]
 28. [스프링 RESTful 웹 서비스 이해 및 개발환경 구성하기][Spring-28]
 29. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-29]
 30. [HttpMessageConverter 커스터마이징 방법][Spring-30]
