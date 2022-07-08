@@ -6,24 +6,16 @@
 ## [Clean Architecture]
  - [[Clean Architecture] The Clean Architecture 번역 및 이해][Clean-1]
  - [[Clean Architecture] 1장. 설계와 아키텍처란?][Clean-2]
-
-
  - [[Clean Architecture] 2장. 두 가지 가치에 대한 이야기][Clean-3]
-
-<hr>
 
 ## [Network]
 
 - [OSI Reference Model][Network-1]
 - [HTTP][Network-2]
 
-<hr>
-
 ## [Database]    
 
 - [데이터베이스 키(Key)의 개념 및 종류][Database-1]
-
-<hr>
 
 ## [Data Structure]
 
@@ -31,9 +23,9 @@
 - [트라이 (Trie) - 자바로 구현하기][DataStructure-2]
 - [트라이 (Trie) - 자동완성 기능 구현하기][DataStructure-3]
 
-<hr>
+## [Security]
 
-
+- [인증 Authentication - 개념, 종류, 방법론, 프로토콜][Security-1]
 
 ## [Web]
 
@@ -41,8 +33,6 @@
 - [[WAS] Apache Tomcat이란?- 간략한 역사와 역할][Web-2]
 - [[Web] Web Server는 정적인 리소스만을, WAS는 동적인 리소스만을 처리한다?][Web-3]
 - [[WAS] Apache Tomcat 디렉터리 구조와 두 가지 환경변수(feat. 멀티 인스턴스 구성방법)][Web-4]
-
-<hr>
 
 ## [Spring Framework]
 
@@ -106,6 +96,8 @@
 [DataStructure-1]: https://blog.naver.com/aservmz/222277491970 "트라이 Trie"
 [DataStructure-2]: https://blog.naver.com/aservmz/222678097858 "트라이 (Trie) - 자바로 구현하기"
 [DataStructure-3]: https://blog.naver.com/aservmz/222679300807 "트라이 (Trie) - 자동완성 기능 구현하기"
+
+[Security-1]: https://blog.naver.com/aservmz/222804573246 "인증 Authentication - 개념, 종류, 방법론, 프로토콜"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
