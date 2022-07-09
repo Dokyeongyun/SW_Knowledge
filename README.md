@@ -26,6 +26,7 @@
 ## [Security]
 
 - [인증 Authentication - 개념, 종류, 방법론, 프로토콜][Security-1]
+- [권한 부여 전략 Authorization strategies][Security-2]
 
 ## [Web]
 
@@ -98,6 +99,7 @@
 [DataStructure-3]: https://blog.naver.com/aservmz/222679300807 "트라이 (Trie) - 자동완성 기능 구현하기"
 
 [Security-1]: https://blog.naver.com/aservmz/222804573246 "인증 Authentication - 개념, 종류, 방법론, 프로토콜"
+[Security-2]: https://blog.naver.com/aservmz/222805634909 "권한 부여 전략 Authorization strategies"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
