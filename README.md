@@ -28,6 +28,7 @@
 - [[Security] 인증 Authentication - 개념, 종류, 방법론, 프로토콜][Security-1]
 - [[Security] 권한 부여 전략 Authorization strategies][Security-2]
 - [[Security] 토큰 기반 인증 방식][Security-3]
+- [[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)][Security-4]
 
 ## [Web]
 
@@ -103,6 +104,7 @@
 [Security-1]: https://blog.naver.com/aservmz/222804573246 "[Security] 인증 Authentication - 개념, 종류, 방법론, 프로토콜"
 [Security-2]: https://blog.naver.com/aservmz/222805634909 "[Security] 권한 부여 전략 Authorization strategies"
 [Security-3]: https://blog.naver.com/aservmz/222809965776 "[Security] 토큰 기반 인증 방식"
+[Security-4]: https://blog.naver.com/aservmz/222813023691 "[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
