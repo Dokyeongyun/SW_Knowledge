@@ -80,6 +80,8 @@
 38. [단일/다중 파일 업로드 MultipartResolver][Spring-38]
 39. [단일/다중 파일 업로드 사용예제][Spring-39]
 40. [Spring Validation을 이용한 유효성 검증(1) - Bean Validation API][Spring-40]
+41. [Spring Validation을 이용한 유효성 검증(2) - @Constraint, ConstraintValidator][Spring-41]
+
 
 <hr>
 
@@ -153,6 +155,7 @@
 [Spring-38]: https://blog.naver.com/aservmz/222338298677 "단일/다중 파일 업로드 MultipartResolver"
 [Spring-39]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제"
 [Spring-40]: https://blog.naver.com/aservmz/222822931285 "Spring Validation을 이용한 유효성 검증(1) - Bean Validation API"
+[Spring-41]: https://blog.naver.com/aservmz/222823126774 "Spring Validation을 이용한 유효성 검증(2) - @Constraint, ConstraintValidator"
 
 
 [ETC-1]: https://blog.naver.com/aservmz/222603408381 "[Logback] CVE-2021-42550(LOBACK-1591) 대응방법"
