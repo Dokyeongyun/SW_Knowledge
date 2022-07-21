@@ -27,8 +27,9 @@
 
 - [[Security] 인증 Authentication - 개념, 종류, 방법론, 프로토콜][Security-1]
 - [[Security] 권한 부여 전략 Authorization strategies][Security-2]
-- [[Security] 토큰 기반 인증 방식][Security-3]
-- [[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)][Security-4]
+- [[Security] 웹 기반 환경에서의 사용자 인증 방식][Security-3]
+- [[Security] 토큰 기반 인증 방식][Security-4]
+- [[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)][Security-5]
 
 ## [Web]
 
@@ -36,7 +37,6 @@
 - [[WAS] Apache Tomcat이란?- 간략한 역사와 역할][Web-2]
 - [[Web] Web Server는 정적인 리소스만을, WAS는 동적인 리소스만을 처리한다?][Web-3]
 - [[WAS] Apache Tomcat 디렉터리 구조와 두 가지 환경변수(feat. 멀티 인스턴스 구성방법)][Web-4]
-- [[Web] 웹 기반 환경에서의 사용자 인증 방식][Web-5]
 
 ## [Spring Framework]
 
@@ -104,14 +104,14 @@
 
 [Security-1]: https://blog.naver.com/aservmz/222804573246 "[Security] 인증 Authentication - 개념, 종류, 방법론, 프로토콜"
 [Security-2]: https://blog.naver.com/aservmz/222805634909 "[Security] 권한 부여 전략 Authorization strategies"
-[Security-3]: https://blog.naver.com/aservmz/222809965776 "[Security] 토큰 기반 인증 방식"
-[Security-4]: https://blog.naver.com/aservmz/222813023691 "[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)"
+[Security-3]: https://blog.naver.com/aservmz/222806718606 "[Security] 웹 기반 환경에서의 사용자 인증 방식"
+[Security-4]: https://blog.naver.com/aservmz/222809965776 "[Security] 토큰 기반 인증 방식"
+[Security-5]: https://blog.naver.com/aservmz/222813023691 "[Security] JWT(JSON Web Token) - JWT는 JWS가 아니다. (feat. JWS, JWE)"
 
 [Web-1]: https://blog.naver.com/aservmz/222312490758 "CORS, SOP란? 크로스 도메인 이슈"
 [Web-2]: https://blog.naver.com/aservmz/222599368051 "[WAS] Apache Tomcat이란?- 간략한 역사와 역할"
 [Web-3]: https://blog.naver.com/aservmz/222599383477 "[WEB] Web Server는 정적인 리소스만을, WAS는 동적인 리소스만을 처리한다?"
 [Web-4]: https://blog.naver.com/aservmz/222604592242 "[WAS] WApache Tomcat 디렉터리 구조와 두 가지 환경변수(feat. 멀티 인스턴스 구성방법)"
-[Web-5]: https://blog.naver.com/aservmz/222806718606 "[Web] 웹 기반 환경에서의 사용자 인증 방식"
 
 [Spring-1]: https://blog.naver.com/aservmz/222123598813 "스프링프레임워크란?"
 [Spring-2]: https://blog.naver.com/aservmz/222124195653 "의존성 주입이란?"
