@@ -71,7 +71,7 @@
 29. [HttpMessageConverter의 종류와 스프링 컨테이너에 등록되는 과정][Spring-29]
 30. [HttpMessageConverter 커스터마이징 방법][Spring-30]
 31. [HiddenHttpMethodFilter][Spring-31]
-32. [스프링 CORS - 설정방법을 중심으4로][Spring-32]
+32. [스프링 CORS - 설정방법을 중심으로][Spring-32]
 33. [스프링 CORS - 처리과정을 중심으로][Spring-33]
 34. [URI 조립을 위한 UriComponentsBuilder][Spring-34]
 35. [REST API 예외처리 방법 (ResponseEntityExceptionHandler)][Spring-35]
@@ -79,6 +79,7 @@
 37. [세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope)][Spring-37]
 38. [단일/다중 파일 업로드 MultipartResolver][Spring-38]
 39. [단일/다중 파일 업로드 사용예제][Spring-39]
+40. [Spring Validation을 이용한 유효성 검증(1) - Bean Validation API][Spring-40]
 
 <hr>
 
@@ -151,6 +152,7 @@
 [Spring-37]: https://blog.naver.com/aservmz/222332995975 "세션을 이용하는 다양한 방법 (@SessionAttributes, @SessionScope q )"
 [Spring-38]: https://blog.naver.com/aservmz/222338298677 "단일/다중 파일 업로드 MultipartResolver"
 [Spring-39]: https://blog.naver.com/aservmz/222338300680 "단일/다중 파일 업로드 사용 예제"
+[Spring-40]: https://blog.naver.com/aservmz/222822931285 "Spring Validation을 이용한 유효성 검증(1) - Bean Validation API"
 
 
 [ETC-1]: https://blog.naver.com/aservmz/222603408381 "[Logback] CVE-2021-42550(LOBACK-1591) 대응방법"
